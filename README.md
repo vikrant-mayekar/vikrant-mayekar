@@ -4,6 +4,7 @@
 <p align="center">🚀 Developer | 💻 Tech Enthusiast | 🧠 AI & Automation Innovator</p>
 <p align="center"><strong>Founder – <a href="https://swamiwebcraft.com" target="_blank">Swami Webcraft Solutions Pvt Ltd</a></strong></p>
 
+
 <p align="center">
   <a href="https://github.com/vikrant-mayekar">
     <img src="https://komarev.com/ghpvc/?username=vikrant-mayekar&label=Profile%20views&color=0e75b6&style=flat" alt="vikrant-mayekar" />
@@ -20,6 +21,11 @@
 </p>
 
 ---
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vikrant-mayekar&theme=dark&title=Stars,Followers,Commits,Repositories,PullRequest" />
+</p>
 
 ## 🧑‍💻 About Me
 
