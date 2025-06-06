@@ -102,7 +102,7 @@
 
 ## 🔗 Let's Connect
 
-- 📧 Email: [vikrant@example.com](mailto:vikrant@swamiwebcraft.com)
+- 📧 Email: [vikrant@swamiwebcraft.com](mailto:vikrant@swamiwebcraft.com)
 - 🌐 Website: [vikrantmayekar.vercel.app](https://vikrantmayekar.vercel.app)
 - 💼 LinkedIn: [linkedin.com/in/vikrantmayekar](https://linkedin.com/in/vikrantmayekar)
 - 🏢 Company: [Swami Webcraft Solutions Pvt Ltd](https://swamiwebcraft.com)
