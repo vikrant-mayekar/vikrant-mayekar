@@ -9,7 +9,7 @@
   <a href="https://github.com/vikrant-mayekar">
     <img src="https://komarev.com/ghpvc/?username=vikrant-mayekar&label=Profile%20views&color=0e75b6&style=flat" alt="vikrant-mayekar" />
   </a>
-  <a href="mailto:vikrant@example.com">
+  <a href="mailto:viki92001@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-blue?style=flat&logo=gmail" />
   </a>
   <a href="https://linkedin.com/in/vikrantmayekar" target="_blank">
