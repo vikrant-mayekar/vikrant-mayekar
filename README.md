@@ -29,7 +29,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Founder of **Swami Webcraft Solutions Pvt Ltd**, delivering innovative digital solutions across industries.
+--- 🔭 Founder of **Swami Webcraft Solutions Pvt Ltd**, delivering innovative digital solutions across industries.
 - 💼 Currently building **AI-powered tools**, CRMs, and automation platforms for scale.
 - 🤝 Passionate about collaborating on **SaaS products**, **LLM integration**, and **growth tech**.
 - 🎯 Focused on Laravel, React, Next.js, and real-world AI applications.
