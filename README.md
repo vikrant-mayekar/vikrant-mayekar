@@ -2,7 +2,6 @@
 
 <h1 align="center">Hey there, I'm Vikrant Mayekar 👋</h1>
 <p align="center">🚀 Developer | 💻 Tech Enthusiast | 🧠 AI & Automation Innovator</p>
-<p align="center"><strong>Founder – <a href="https://swamiwebcraft.com" target="_blank">Swami Webcraft Solutions Pvt Ltd</a></strong></p>
 
 
 <p align="center">
@@ -29,7 +28,6 @@
 
 ## 🧑‍💻 About Me
 
---- 🔭 Founder of **Swami Webcraft Solutions Pvt Ltd**, delivering innovative digital solutions across industries.
 - 💼 Currently building **AI-powered tools**, CRMs, and automation platforms for scale.
 - 🤝 Passionate about collaborating on **SaaS products**, **LLM integration**, and **growth tech**.
 - 🎯 Focused on Laravel, React, Next.js, and real-world AI applications.
